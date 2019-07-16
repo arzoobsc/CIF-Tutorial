@@ -28,3 +28,16 @@ fun main(){
     println(condition)
 
 }
+/*
+*   Output =>
+* 2 > 1 is true
+2 < 1 is false
+1 >= 1 is true
+1 == 1 is true
+1 == 2 is false
+1 != 2 is true
+!(2 > 1) is false
+true && false = false
+true || false = true
+true
+* */
